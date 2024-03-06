@@ -1,4 +1,4 @@
-<h1 align="left">Hi 👋, I'm This is Areum's github page.</h1>
+<h1 align="left">Hi 👋, This is Areum's github page.</h1>
 <h3 align="left">I am learning about Node.js</h3>
 
 - 🌱 I’m currently learning **Javascript, SQL, Node.js**
