@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **Javascript, SQL, Node.js**
 
-- 👨‍💻 All of my projects are available at getting ready;
+- 👨‍💻 All of my projects are available at [' '];
 
 - 📫 How to reach me **kang102322@naver.com**
 
