@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [' '];
 
-- 📫 How to reach me **kang102322@naver.com**
+- 📫 How to reach me **kang10232@naver.com**
 
 - 🌱You get what you focus on, **so focus on what you want.**
 
