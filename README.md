@@ -3,11 +3,11 @@
 
 - 🌱 I’m currently learning **Javascript,Node.js**
 
-- 👨‍💻 All of my projects are available at [' '];
-
 - 📫 How to reach me **kang10232@naver.com**
 
 - 🌱You get what you focus on, **so focus on what you want.**
+
+- 👨‍💻 
 
 
 <p align="left">
